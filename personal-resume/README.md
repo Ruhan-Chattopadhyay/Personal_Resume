@@ -1,16 +1,47 @@
-# React + Vite
+# 💼 Ruhan Chattopadhyay – Personal Resume & Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal resume / portfolio website!  
+This site showcases my background, skills, projects and contact information. It also serves as a central hub for anyone interested in viewing my work or getting in touch.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About Me
 
-## React Compiler
+Hello! I’m **Ruhan Chattopadhyay**, a developer passionate about building clean, efficient and user-friendly web applications.  
+I enjoy learning new technologies, solving problems, and collaborating on meaningful projects.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Skills & Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Here are some of the tools and technologies I’m comfortable working with:
+
+- **Frontend:** HTML, CSS, JavaScript, (plus any frameworks: React / Vue / etc.)  
+- **Other:** Git, GitHub, REST APIs, Responsive Design, etc.  
+
+
+---
+
+
+
+
+---
+
+## 🌐 Website Info
+
+This website itself is a demonstration of my skills — built using standard web technologies.  
+It’s deployed as a simple, static site and serves as my online resume / portfolio.  
+
+---
+
+## 📫 Contact & Connect With Me
+
+- GitHub: [github.com/ruhan-chattopadhyay](https://github.com/ruhan-chattopadhyay)  
+
+Feel free to reach out if you want to discuss collaboration, job opportunities, or anything interesting!
+
+---
+
+
+
+
