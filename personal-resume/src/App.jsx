@@ -22,9 +22,9 @@ const Resume = () => {
       <div className="content">
         {/* Objective */}
         <section className="section">
-          <h2 className="section-title">Objective</h2>
+          <h2 className="section-title">About me</h2>
           <p className="objective">
-            Motivated and detail-oriented undergraduate student with strong academic performance
+            Motivated and detail-oriented student with strong academic performance
             and practical project experience in web development. Proficient in Java-based
             applications. Seeking opportunities to apply technical and creative skills to design
             beautiful and functional websites.
@@ -151,13 +151,13 @@ const Resume = () => {
             <div className="skill-category">
               <div className="skill-category-title">Programming</div>
               <div className="skill-category-content">
-                Java (Intermediate), JavaScript, HTML5, CSS3
+                Java (Intermediate), JavaScript (Beginner), HTML5 (Beginner), CSS3 (Beginner), React (Beginner)
               </div>
             </div>
             <div className="skill-category">
               <div className="skill-category-title">Core Competencies</div>
               <div className="skill-category-content">
-                OOP, File I/O, Data Structures, Arrays, Modular Programming, Validation Logic
+                OOP, Data Structures, Arrays, Modular Programming, I/O handling
               </div>
             </div>
             <div className="skill-category">
